@@ -1,0 +1,3 @@
+Parameters: model=cv, ngram=(1, 3), stop_words=None, n_comp=50, max_features=5000, n_clusters=13, lemmatization=True
+WSS: 7293.3849, Silhouette Score: -0.0550
+
